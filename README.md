@@ -10,7 +10,7 @@
 - Python 3.11
 - Jupyter Notebook / PyCharm
 - Git & GitHub
-- Pandas, NumPy, Matplotlib (по мере добавления в проект)
+- Pandas, NumPy, Matplotlib
 
 ---
 
